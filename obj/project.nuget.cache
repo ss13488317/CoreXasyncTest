@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BofKiL8+TgN75y98l2m7OapZVf2SVdC93f/bQAqYUo7g5LRRXNV4V8MSddiOEcIvlzVXrQvKlzCnv89fjesBNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\ss13488317\\CoreXasyncTest\\CoreXasync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
